@@ -1,0 +1,43 @@
+body {
+    background-color: beige;
+    color: black;
+}
+
+#a {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#b {
+    font-size: x-small;
+}
+
+#c {
+    font-weight: bold;
+}
+
+#d {
+    color: #ffe59e;
+}
+
+#e {
+    text-decoration: underline;
+}
+
+#f {
+    text-shadow: 3px 3px 3px black
+}
+
+#g {
+    color: blue;
+    text-shadow: 5px 5px 4px black;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-align: center;
+    letter-spacing: 4px;
+}
+
+#h {
+
+}

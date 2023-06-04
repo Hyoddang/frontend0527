@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+}
+
+img {
+    width: 30%;
+}
+
+h1 {
+    background-color: bisque;
+    color: chocolate;
+}
+
+p {
+    font-style: italic;
+}
+
+.oddNumber {
+    color: aquamarine;
+    font-size: x-large;
+}
+
+#evenNumber {
+    color: silver;
+    font-size: x-large;
+}
+
+#title {
+    text-align: center;
+}
