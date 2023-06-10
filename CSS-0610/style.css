@@ -1,0 +1,44 @@
+#a {
+    /* 폰트 사이즈 설정 - 키워드 */
+    font-size: xx-small;
+    color: aqua;
+    text-align: start;
+}
+
+#b{
+    font-size: medium;
+    color: #faaffa;
+    text-align: end;
+}
+
+
+#c {
+    font-size: xx-large;
+    color: #f88004;
+    text-align: center;
+}
+
+#ee {
+    font-size: 20px;
+    color: #fbbbbb;
+}
+
+#d {
+    font-size: 5em;
+}
+
+#e {
+    font-style: italic;
+    font-style: normal;
+    font-weight: bolder;
+}
+
+#f {
+    font-size: 16px;
+    font-weight: 100;
+}
+
+#h {
+    text-align: justify;
+}
+

@@ -1,0 +1,14 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    caption-side: bottom;
+}
+
+td, th {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.heading, th {
+    background-color: #eee;
+}
