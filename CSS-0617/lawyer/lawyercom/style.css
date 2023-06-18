@@ -15,6 +15,7 @@ img {
 
 a {
     text-decoration: none;
+    color: black;
 }
 
 #wrap {
@@ -33,6 +34,40 @@ a {
     width: 1200px;
     height: 100px;
     background-color: yellow;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    /* padding-left: 50px; */
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+.nav_in {
+    display: flex;
+    justify-content: space-around;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    width: 600px;
+}
+
+.signin {
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.signin ul {
+    display: flex;
+    justify-content: space-around;
+    font-size: 14px;
 }
 
 /*! 메인영역 */
